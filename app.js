@@ -22,7 +22,7 @@ function agregarAmigo() {
   // Validar que el campo no esté vacío
   if (nombre.trim() === "") {
     alert("Por favor, inserte un nombre.");
-    return; // Salir de la función si el campo está vacío
+    return; // Salir de la función si el campo está vacío kjhaskhjds
   }
 
   listaNombresAmigos.push(nombre); // Agregar el nombre al array
